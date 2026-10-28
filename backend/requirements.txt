@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-dotenv
+python-multipart
+python-docx
+openpyxl
+pillow
+reportlab
+pypdfium2
+pdf2docx
+xlrd
+defusedxml
+pyyaml
+python-pptx
